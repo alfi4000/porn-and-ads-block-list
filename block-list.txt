@@ -4,6 +4,7 @@ ads-twitter.com
 static.ads-twitter.com
 campfirecroutondecorator.com
 doubleclick.net
+googleads.g.doubleclick.net
 securepubads.g.doubleclick.net
 jwplayer.com
 entitlements.jwplayer.com
@@ -17,8 +18,6 @@ tzegilo.com
 fleraprt.com
 bobapsoabauns.com
 depreciatorybollocksupkitchen.com
-orbitcache.com
-cdn-kuc3ehpz4wnczfyz.orbitcache.com
 obqj2.com
 cactusheadroomscaling.com
 chaturbate.com
@@ -343,7 +342,6 @@ adobedtm.com
 assets.adobedtm.com
 demdex.net
 dpm.demdex.net
-videzz.net
 o333o.com
 cdn.o333o.com
 bootstrapcdn.com
@@ -366,3 +364,11 @@ ossgogoaton.com
 vaimucuvikuwu.net
 glempirteechacm.com
 zoojoujoaseeh.com
+dronerazzo.com
+git.dronerazzo.com
+youtube.com
+www.youtube.com
+animeloundry.com
+dessertrecruit.com
+glittering-army.pro
+adalyticshub.com
